@@ -17,7 +17,6 @@ SilentWords is an interactive sign language learning platform powered by AI tech
 Clone the repository and navigate to the frontend directory:
 
 ```bash
-git clone https://github.com/amardeep-soni/SemicolonHackathon
 cd frontend
 ```
 
